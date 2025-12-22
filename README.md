@@ -8,7 +8,6 @@
 
 ## 🔑 核心功能
 - `add_paper`: 单篇论文分类、搬运至对应主题目录并索引全文/片段。
-- `organize_papers`: 对指定目录批量整理。
 - `sort_paper`: 一键整理 `papers/` 下所有 PDF（自动读取已有主题子目录名）。
 - `search_paper`: 语义检索，支持仅输出文件列表。
 - `search_chunk`: 返回最相关的论文片段（页码+文本）。
