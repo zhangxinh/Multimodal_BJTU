@@ -1,0 +1,10 @@
+command: python main.py search_image The baby is taking a bath
+query: The baby is taking a bath
+
+[0.681] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/images/n04493381_5986.JPEG :: A young child is playing in a bathtub. The child is wearing a bright orange cup on their head and has a yellow plastic cup nearby.
+[0.579] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/images/n03188531_9084.JPEG :: A baby on a cushion looking at the camera.
+[0.413] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/images/n02408429_3020.JPEG :: A cow bears its horns shirely in a rushing river.
+[0.406] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/images/n01498041_13056.JPEG :: A man is playing with a ray in crystal blue ocean water.
+[0.372] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/images/n07753275_1559.JPEG :: Two fruits near each other.
+
+Top image copied to: /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/output/2025-12-22_21-20-37_search_image/n04493381_5986.JPEG

@@ -1,0 +1,10 @@
+{
+  "command": "python main.py add_paper /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/1910.10683v4.pdf --topics NLP_Natural_Language_Processing",
+  "result": {
+    "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/1910.10683v4.pdf",
+    "topics": [
+      "NLP_Natural_Language_Processing"
+    ],
+    "chunks_indexed": 200
+  }
+}

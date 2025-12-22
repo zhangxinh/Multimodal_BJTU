@@ -1,0 +1,13 @@
+command: python main.py search_paper 如何做image的encoder和text的encoder对齐
+query: 如何做image的encoder和text的encoder对齐
+
+[0.591] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Clip.pdf (NLP_Natural_Language_Processing, CV_Computer_Vision, Multi_Multimodal)
+    Learning Transferable Visual Models From Natural Language Supervision Alec Radford * 1 Jong Wook Kim* 1 Chris Hallacy 1 Aditya Ramesh 1 Gabriel Goh 1 Sandhini Agarwal 1 Girish Sastry 1 Amanda Askell 1
+[0.496] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Bert.pdf (NLP_Natural_Language_Processing)
+    BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding Jacob Devlin Ming-Wei Chang Kenton Lee Kristina Toutanova Google AI Language {jacobdevlin,mingweichang,kentonl,kristout
+[0.485] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Vit.pdf (NLP_Natural_Language_Processing, CV_Computer_Vision)
+    Published as a conference paper at ICLR 2021 AN IMAGE IS WORTH 16X16 W ORDS : TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE Alexey Dosovitskiy∗,†, Lucas Beyer∗, Alexander Kolesnikov∗, Dirk Weissenborn∗,
+[0.461] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/CV_Computer_Vision/SwinTransformer.pdf (CV_Computer_Vision, NLP_Natural_Language_Processing)
+    Swin Transformer: Hierarchical Vision Transformer using Shifted Windows Ze Liu†* Yutong Lin†* Yue Cao* Han Hu*‡ Yixuan Wei† Zheng Zhang Stephen Lin Baining Guo Microsoft Research Asia {v-zeliu1,v-yutl
+[0.458] /volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/1910.10683v4.pdf (NLP_Natural_Language_Processing)
+    Journal of Machine Learning Research 21 (2020) 1-67 Submitted 1/20; Revised 6/20; Published 6/20 Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer Colin Raffel∗ craffel

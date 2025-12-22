@@ -1,0 +1,95 @@
+{
+  "command": "python main.py sort_paper",
+  "result": [
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/AIGC_Artificial_Intelligence_Generated_Content/Dit.pdf",
+      "topics": [
+        "AIGC_Artificial_Intelligence_Generated_Content",
+        "CV_Computer_Vision",
+        "NLP_Natural_Language_Processing"
+      ],
+      "chunks_indexed": 83
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Vit.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing",
+        "CV_Computer_Vision"
+      ],
+      "chunks_indexed": 96
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Transformer.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing",
+        "AIGC_Artificial_Intelligence_Generated_Content"
+      ],
+      "chunks_indexed": 59
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Bert.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing"
+      ],
+      "chunks_indexed": 86
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Clip.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing",
+        "CV_Computer_Vision",
+        "Multi_Multimodal"
+      ],
+      "chunks_indexed": 200
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/AIGC_Artificial_Intelligence_Generated_Content/Dit.pdf",
+      "topics": [
+        "AIGC_Artificial_Intelligence_Generated_Content",
+        "CV_Computer_Vision",
+        "NLP_Natural_Language_Processing"
+      ],
+      "chunks_indexed": 83
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Vit.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing",
+        "CV_Computer_Vision"
+      ],
+      "chunks_indexed": 96
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Transformer.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing",
+        "AIGC_Artificial_Intelligence_Generated_Content"
+      ],
+      "chunks_indexed": 59
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Bert.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing"
+      ],
+      "chunks_indexed": 86
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/NLP_Natural_Language_Processing/Clip.pdf",
+      "topics": [
+        "NLP_Natural_Language_Processing",
+        "CV_Computer_Vision",
+        "Multi_Multimodal"
+      ],
+      "chunks_indexed": 200
+    },
+    {
+      "path": "/volume/pt-train/users/wzhang/rstao/zxh/github/Multimodal/papers/CV_Computer_Vision/SwinTransformer.pdf",
+      "topics": [
+        "CV_Computer_Vision",
+        "NLP_Natural_Language_Processing"
+      ],
+      "chunks_indexed": 93
+    }
+  ]
+}
